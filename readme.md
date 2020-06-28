@@ -1,3 +1,7 @@
+此為 node js 練習作業
+
+== 原作者為yannickya ==
+
 > Node.js 鄉親們，今天來點「Node.js 入門教學」，教學內容包含 Express.js 與
 > 最新流行 ES6+ 的語法與邏輯，讓我們繼續看下去 XD
 > 喜歡就按個讚吧！
